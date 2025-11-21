@@ -18,7 +18,7 @@ ffmpeg -version
 ### 2. Клонируйте репозиторий
 
 ```bash
-git clone https://github.com/yourusername/ascii-video.git
+git clone https://github.com/mxdnght0/ascii-video.git
 cd ascii-video
 ```
 
